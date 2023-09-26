@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Estoy creando mi primer repositorio con soy henry
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
